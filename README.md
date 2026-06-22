@@ -16,7 +16,7 @@ I believe the best way to learn is by building, even when it breaks first. Espec
 🎓  IT Student @ Batam International University, Batam, Indonesia
 💼  Frontend Developer Intern @ UIB
 📍  Batam, Indonesia
-📬  [fadhlanlim@gmail.com]
+📬  fadhlanlim@gmail.com
 ```
 
 ---
@@ -79,7 +79,7 @@ I believe the best way to learn is by building, even when it breaks first. Espec
 ---
 
 <div align="center">
-  <a href="mailto:[fadhlanlim@gmail.com]">
+  <a href="mailto:fadhlanlim@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
