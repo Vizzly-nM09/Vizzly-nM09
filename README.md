@@ -52,7 +52,7 @@ I believe the best way to learn is by building, even when it breaks first. Espec
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vizzly-nM09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vizzly-nM09&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vizzly-nM09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
@@ -72,9 +72,9 @@ I believe the best way to learn is by building, even when it breaks first. Espec
 
 ## 💬 A Little More
 
-- 🔨 Learning by doing — most of my knowledge comes from breaking things and fixing them
+- 🔨 Learning by doing cause most of my knowledge comes from curiosity about it, breaking things and fixing them
 - 🤝 Open to internship opportunities, collaborations, or just a good dev conversation
-- ⚡ Fun fact: I use **Bruno** instead of Postman — yes, it's better
+- ⚡ Fun fact: I use **Bruno** instead of Postman. And yes, it's better
 
 ---
 
