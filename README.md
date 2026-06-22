@@ -8,13 +8,13 @@
 
 Hey! I'm **Fadhlan**, an Information Technology student from Batam, Indonesia.
 
-I started learning web development with **zero JavaScript experience** — jumped straight into React and frameworks, survived the confusion, and actually started to love it. Now I'm interning as a **Frontend Developer** at my campus IT Center while finishing my degree.
+I started learning web development with **zero JavaScript experience** and jumped straight into React and frameworks, survived the confusion, and actually started to love it. Now I'm interning as a **Frontend Developer** at my campus in UIB while finishing my degree.
 
-I believe the best way to learn is by building — even when it breaks first. Especially when it breaks first.
+I believe the best way to learn is by building, even when it breaks first. Especially when it breaks first.
 
 ```
-🎓  IT Student @ [Nama Kampus], Batam, Indonesia
-💼  Frontend Developer Intern @ Campus IT Center
+🎓  IT Student @ Batam International University, Batam, Indonesia
+💼  Frontend Developer Intern @ UIB
 📍  Batam, Indonesia
 📬  [fadhlanlim@gmail.com]
 ```
@@ -66,7 +66,7 @@ I believe the best way to learn is by building — even when it breaks first. Es
 - Advanced React — `useContext`, `useReducer`, performance hooks (`useMemo`, `useCallback`, `React.memo`)
 - Next.js App Router, Server Components & NextAuth
 - Building full-stack projects with Laravel + React
-- Learning again Python
+- Trying to learn some language again
 
 ---
 
@@ -85,5 +85,5 @@ I believe the best way to learn is by building — even when it breaks first. Es
 </div>
 
 <div align="center">
-  <sub>Always a work in progress — just like my code 🚧</sub>
+  <sub>Always a work in progress, just like my code 🚧</sub>
 </div>
