@@ -62,9 +62,9 @@ I believe the best way to learn is by building, even when it breaks first. Espec
 
 ## 🌱 Currently Learning
 
-- Advanced React — `useContext`, `useReducer`, performance hooks (`useMemo`, `useCallback`, `React.memo`)
+- Advanced React such as `useContext`, `useReducer`, performance hooks (`useMemo`, `useCallback`, `React.memo`)
 - Next.js App Router, Server Components & NextAuth
-- Building full-stack projects with Laravel + React
+- Building full-stack projects with Laravel + React soon
 - Trying to learn some language again
 
 ---
